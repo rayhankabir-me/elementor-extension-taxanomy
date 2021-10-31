@@ -1,1 +1,3 @@
 # elementor-extension-taxanomy
+
+created custom post type with acf, and make a widget by querying the post by custom post type. also added filtering feature in the widget by custom taxanomy...
